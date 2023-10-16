@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c70cdd896d3f5144bdd4a181b7aba52, type: 3}
+  m_Name: puji
+  m_EditorClassIdentifier: 
+  name: puji
+  head: {fileID: -3978809556708121719, guid: 19c832fa3289bab4c9a3d6ce99a78b7c, type: 3}
+  body: {fileID: -5085966806346971745, guid: 19c832fa3289bab4c9a3d6ce99a78b7c, type: 3}
+  waist: {fileID: -7201264860335834423, guid: 19c832fa3289bab4c9a3d6ce99a78b7c, type: 3}
